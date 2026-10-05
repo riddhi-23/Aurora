@@ -12,7 +12,7 @@ A small command-line tool to request molecule generation from the AURORA API —
 pip install requests
 ```
 
-Get an **API key** from the portal: `http://192.168.30.176:8015`
+Get an **API key** from the portal: '(https://aurora.raylab.iiitd.edu.in/)`
 
 ```bash
 export MOLGEN_API_KEY="paste-your-api-key-here"
